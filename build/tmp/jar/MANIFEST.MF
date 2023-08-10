@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: slf4j-nop-1.7.36.jar kafka-clients-3.3.1.jar slf4j-api-1.7.3
+ 6.jar
+Main-Class: examples.ProducerExample
+
