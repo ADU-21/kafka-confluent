@@ -18,7 +18,7 @@ public class ConsumerExample {
             System.exit(1);
         }
 
-        final String topic = "purchases";
+        final String topic = "test";
 
         // Load consumer configuration settings from a local file
         // Reusing the loadConfig method from the ProducerExample class
